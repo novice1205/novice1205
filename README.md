@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Parth
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning Python
+- 📫 email - parthraheja1205@gmail.com
