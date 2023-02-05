@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Parth
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Python
+- 🌱 Python, C++, JS and many more.
 - 📫 email - parthraheja1205@gmail.com
