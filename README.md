@@ -4,8 +4,11 @@
 🎓 Undergrad from Delhi University | MCA at PES University  
 
 💡 **Tech Stack:** Python | C++ | JavaScript | React | Node.js | AI & ML  
+
 🌍 **Passionate about:** Web Development, AI, and Problem-Solving  
-💻 **My Website:** parthraheja.vercel.app
+
+💻 **My Website:** [parthraheja.vercel.app](https://parthraheja.vercel.app/)
+
 📧 **Reach me at:** parthraheja1205@gmail.com  
 
 ## 📊 GitHub Stats  
