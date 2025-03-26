@@ -57,10 +57,10 @@
   <a href="https://github.com/novice1205">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
   </a>
-  <a href="https://twitter.com/parthraheja">
+  <a href="https://twitter.com/ParthRaheja1205">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="50" />
   </a>
-  <a href="https://www.instagram.com/parthraheja">
+  <a href="https://www.instagram.com/parthbruhhh">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="50" />
   </a>
 </p>
