@@ -62,7 +62,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="50" style="margin: 10px;" />
   </a>
   <a href="mailto:parthraheja1205@gmail.com"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" style="margin: 10px;" /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="50" style="margin: 10px;" /> 
   </a> 
 </p>
 
