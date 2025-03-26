@@ -61,9 +61,9 @@
   <a href="https://x.com/ParthRaheja1205">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="50" style="margin: 10px;" />
   </a>
-  <a href="https://www.instagram.com/parthbruhhh">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="50" style="margin: 10px;" />
-  </a>
+  <a href="mailto:parthraheja1205@gmail.com"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" style="margin: 10px;" /> 
+  </a> 
 </p>
 
 ---
